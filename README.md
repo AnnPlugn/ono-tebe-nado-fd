@@ -1,2 +1,2 @@
-https://github.com/AnnPlugn/ono-tebe-nado-fd
+https://github.com/AnnPlugn/ono-tebe-nado
 
